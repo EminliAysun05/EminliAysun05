@@ -8,9 +8,8 @@
 [![](https://visitcount.itsvg.in/api?id=EminliAysun05&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EminliAysun05/EminliAysun05/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EminliAysun05/EminliAysun05/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EminliAysun05/EminliAysun05/output/github-snake.svg" />
-</picture>
-![snake gif](https://github.com/EminliAysun05/EminliAysun05/blob/output/github-snake-dark.svg)
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/EminliAysun05/EminliAysun05/output/github-contribution-grid-snake.svg)
+
+
