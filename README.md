@@ -8,8 +8,6 @@
 [![](https://visitcount.itsvg.in/api?id=EminliAysun05&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/EminliAysun05/EminliAysun05/output/github-contribution-grid-snake.svg)
 
 
