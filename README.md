@@ -11,3 +11,4 @@
 
 
 
+![snake gif](https://github.com/EminliAysun05/EminliAysun05/blob/output/github-snake-dark.svg)
